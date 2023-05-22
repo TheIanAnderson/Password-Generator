@@ -5,4 +5,4 @@ Below you will see our newly wired password generator. In this project I was hir
 <img width="978" alt="Screen Shot 2023-05-21 at 9 13 24 PM" src="https://github.com/TheIanAnderson/Password-Generator/assets/131201726/fde0c1fb-7fb1-4c76-ba65-8a51c36348ab">
 
 
-Link to Launched site:
+Link to Launched site: https://theiananderson.github.io/Password-Generator/
